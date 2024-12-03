@@ -504,6 +504,10 @@
     display: none;
   }
 
+  .italic-text {
+    font-size: .7rem;
+  }
+
   #w-node-_82f52ecc-6868-5cab-b705-d2bf050fad17-47078d42 {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
